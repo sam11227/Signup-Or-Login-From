@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Routing from "./Components/routing";
 import "./app.css";
-import Testloder from "./Components/testloder";
 
 function App() {
   return (
