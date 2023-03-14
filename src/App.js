@@ -10,7 +10,6 @@ function App() {
       {/* <BrowserRouter>
         <Routing/>
       </BrowserRouter> */}
-      <Testloder/>
     </div>
   );
 }
