@@ -6,9 +6,9 @@ import "./app.css";
 function App() {
   return (
     <div className="bg-[#f9fafb]">
-      {/* <BrowserRouter>
+      {<BrowserRouter>
         <Routing/>
-      </BrowserRouter> */}
+      </BrowserRouter>}
     </div>
   );
 }
